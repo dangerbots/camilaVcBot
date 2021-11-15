@@ -2,7 +2,7 @@ pyrogram
 TgCrypto
 py-tgcalls
 python-dotenv
-youtube_dl
+wget
 youtube_search_python
 requests
 aiohttp
@@ -15,4 +15,4 @@ Pillow
 python-arq
 future
 psutil
-wget
+
